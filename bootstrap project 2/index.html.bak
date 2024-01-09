@@ -1,0 +1,290 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/all.min.css" rel="stylesheet" type="text/css">
+    <link href="css/style.css" rel="stylesheet" type="text/css">
+
+    <title>Bootstrap</title>
+  </head>
+  <body>
+   <header>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light py-3">
+      <div class="container">
+        <a class="navbar-brand" href="#">
+          <img src="images/1.png"/>
+        </a>
+        
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+            <li class="nav-item px-3">
+              <a class="nav-link active" aria-current="page" href="#">Home</a>
+            </li>
+            <li class="nav-item px-3">
+              <a class="nav-link active" aria-current="page" href="#">PAGES</a>
+            </li>
+            <li class="nav-item px-3">
+              <a class="nav-link active" aria-current="page" href="#">PORTFOLIO</a>
+            </li>
+            <li class="nav-item px-3">
+              <a class="nav-link active" aria-current="page" href="#">BLOGS</a>
+            </li>
+            <li class="nav-item px-3">
+              <a class="nav-link active" aria-current="page" href="#">CONTACT US</a>
+            </li>
+            </ul>
+            
+            
+      </div>
+    </nav>
+</header>
+
+    <section class="bg pad100">
+        <div class="container">
+            <div class="row">
+              <div class="col-7 align-self-center">
+                <div class="w-100 p-2">
+                    <h1>Insuring Your Future From Today</h1>
+                    <p class="py-4 pe-4">From banking to wealth management and securities distribution, we dedicated financial services the teams serve all major sectors.</p>
+                    <button class="btn btn-primary px-4 py-3 rounded-pill">Work With Us</button>
+                </div>
+              </div>
+              <div class="col-5">
+                  <div class="box">
+                <img src="images/2.png" class="img-fluid" height="451"/>
+                </div>
+              </div>
+            </div>
+          </div>
+    </section>
+
+    <section class="bg1 pad50">
+        <h2 class="text-center">Explore Solutions</h2>
+        <p class="text-center pt-3">Our design projects are fresh and simple and will benefit your business greatly. <br/>Learn more about our work!</p>
+        <div class="container">
+          <div class="w-100 pt-5">
+          <div class="row">
+            
+            <div class="col">
+              <div class="box1 text-start p-4 m-2">
+                <i class="fas fa-desktop"></i>
+                <h3 class="pt-4">Responsive Design</h3>
+                <p>This prevents repetitive patterns from impairing the overall facilitates the comparison.</p>
+              </div>
+            </div>
+            <div class="col">
+              <div class="box1 text-start p-4 m-2">
+                <i class="far fa-eye"></i>
+                <h3 class="pt-4">Retina Ready Graphics</h3>
+                <p>This prevents repetitive patterns from impairing the overall facilitates the comparison.</p>
+              </div>
+            </div>
+            <div class="col">
+             <div class="box1 text-start p-4 m-2">
+              <i class="fas fa-tachometer-alt"></i>
+                <h3 class="pt-4">Powerful Performance</h3>
+                <p>This prevents repetitive patterns from impairing the overall facilitates the comparison.</p>
+              </div>
+            </div>
+            </div>
+          </div>
+
+          <div class="row">
+            
+            <div class="col">
+              <div class="box1 text-start p-4 m-2">
+                <i class="fas fa-palette"></i>
+                <h3 class="pt-4">Unlimited Color Options</h3>
+                <p>This prevents repetitive patterns from impairing the overall facilitates the comparison.</p>
+              </div>
+            </div>
+            <div class="col">
+              <div class="box1 text-start p-4 m-2">
+                <i class="fas fa-font"></i>
+                <h3 class="pt-4">Customizable Fonts</h3>
+                <p>This prevents repetitive patterns from impairing the overall facilitates the comparison.</p>
+              </div>
+            </div>
+            <div class="col">
+             <div class="box1 text-start p-4 m-2">
+              <i class="fas fa-file-upload"></i>
+                <h3 class="pt-4">Free Updates</h3>
+                <p>This prevents repetitive patterns from impairing the overall facilitates the comparison.</p>
+              </div>
+            </div>
+            </div>
+          </div>
+        </div>
+    </section>
+
+    <section class="bg2 pad50">
+      <div class="container">
+        <div class="row">
+          <div class="col-4">
+            <img src="images/3.jpg" class="img-fluid rounded-3"/>
+          </div>
+          <div class="col-8 align-self-center">
+            <div class="w-100 p-5">
+              <h2>Crafted For Digital Agency.</h2>
+              <p class="pt-3">The advantage of its Latin origin and the relative meaninglessness of Lorum Ipsum is that the text does not attract attention to itself or distract the viewer's attention from the layout.</p>
+              
+              <div class="d-flex">
+              <ul class="list-unstyled pt-3">
+                <li class="py-1"><i class="far fa-check-circle pe-2"></i>Fully Responsive</li>
+                <li class="py-1"><i class="far fa-check-circle pe-2"></i>Finance & Restructuring</li>
+                <li class="py-1"><i class="far fa-check-circle pe-2"></i>Audit & Assurance</li>
+                <li class="py-1"><i class="far fa-check-circle pe-2"></i>Trades & Stock Market</li>
+              </ul>
+
+              <ul class="list-unstyled pt-3 ps-5">
+                <li class="py-1"><i class="far fa-check-circle pe-2"></i>Strategy & Planning</li>
+                <li class="py-1"><i class="far fa-check-circle pe-2"></i>Software & Research</li>
+                <li class="py-1"><i class="far fa-check-circle pe-2"></i>Support & Maintenance</li>
+              </ul>
+              </div>
+              <button class="btn btn-primary px-3 py-2 mt-2">Read More<i class="fas fa-arrow-right ps-2"></i></button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="bg3 pad50 text-center">
+        <h2>Meet Our Team Expert</h2>
+        <p class="pt-3">Our design projects are fresh and simple and will benefit your business greatly. Learn more about our work!</p>
+        <div class="d-flex pad50">
+          <div class="col-2">
+            <img src="images/4.jpg" class="img-fluid"/>
+          </div>
+          <div class="col-2">
+            <img src="images/5.jpg" class="img-fluid"/>
+          </div>
+          <div class="col-2">
+            <img src="images/6.jpg" class="img-fluid"/>
+          </div>
+          <div class="col-2">
+            <img src="images/7.jpg" class="img-fluid"/>
+          </div>
+          <div class="col-2">
+            <img src="images/8.jpg" class="img-fluid"/>
+          </div>
+          <div class="col-2">
+            <img src="images/9.jpg" class="img-fluid"/>
+          </div>
+        </div>
+    </section>
+
+    <section class="bg4 pad50">
+      <div class="container">
+        <div class="col-4">
+          <div class="w-100 p-3">
+            <h2>Our Skills & Expertise</h2>
+            <p class="pt-3">Our design projects are fresh and simple and will benefit your business greatly. Learn more about our work!</p>
+          </div>
+        </div>
+        <div class="col-6"></div>
+      </div>
+    </section>
+
+    <section class="bg-img">
+
+    </section>
+
+    <section class="bg5 pad100">
+      <div class="container">
+        <h6 class="text-primary text-center">Blogs</h6>
+        <h2 class="py-2 text-center">Latest Blog & News</h2>
+        <p class="text-center">Our design projects are fresh and simple and will benefit your business greatly. Learn more about our work!</p>
+        <div class="d-flex">
+          <div class="col-4 p-2">
+            <div class="card">
+              <img src="images/14.jpg" class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title">Building Your Corporate Identity from Starty</h5>
+                <p class="card-text p-0 m-0">The most well-known dummy text is the 'Lorem Ipsum', in the 16th century.</p>
+                <button class="btn border-none p-0 pt-2">Read More<i class="fas fa-arrow-right ps-2"></i></button>
+              </div>
+            </div>
+           </div>
+
+           <div class="col-4 p-2">
+            <div class="card">
+              <img src="images/15.jpg" class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title">The Dark Side of Overnight Success</h5>
+                <p class="card-text p-0 m-0">The most well-known dummy text is the 'Lorem Ipsum', in the 16th century.</p>
+                <button class="btn border-none p-0 pt-2">Read More<i class="fas fa-arrow-right ps-2"></i></button>
+              </div>
+            </div>
+           </div>
+    
+
+           <div class="col-4 p-2">
+            <div class="card">
+              <img src="images/16.jpg" class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title">Building Your Corporate Identity from Starty</h5>
+                <p class="card-text p-0 m-0">The most well-known dummy text is the 'Lorem Ipsum', in the 16th century.</p>
+                <button class="btn border-none p-0 pt-2">Read More<i class="fas fa-arrow-right ps-2"></i></button>
+              </div>
+            </div>
+           </div>
+    
+    
+        </div>
+       
+      </div>
+    </section>
+	
+	
+	<section class="bg-img1">
+	<div class="black-box">
+		<div class="d-flex justify-content-between">
+		<div class="w-100">
+			<h2 class="text-white pt-4">Make your website unforgettable<br/>
+			Join the Starty community.</h2>
+			</div>
+			<div class="join align-self-center">
+				<button>Join us Now</button>
+			</div>
+		</div>
+	</div>
+    </section>
+	
+	
+	<section class="bg6">
+		<div class="container">
+			<div class="container">
+  <div class="row">
+    <div class="col pt-5 box-icon">
+			<ul class="d-flex list-unstyled">
+				<li><i class="fab fa-facebook-f"></i></li>
+				<li><i class="fab fa-instagram"></i></li>
+				<li><i class="fab fa-twitter"></i></li>
+				<li><i class="fab fa-linkedin-in"></i></li>
+			</ul>
+	</div>
+    <div class="col pt-5 text-white">
+		<h4>Company</h4>
+		<ul class="list-unstyled">
+			<li><i class="fas fa-angle-right pe-2"></i>About us</li>
+		</ul>
+	</div>
+    <div class="col">col</div>
+    <div class="col">col</div>
+  </div>
+ </div>
+		</div>
+	</section>
+	
+    <script src="js/bootstrap.bundle.min.js"></script>
+	<script src="js/popper.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+   
+  </body>
+</html>

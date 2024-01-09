@@ -1,0 +1,310 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/all.min.css" rel="stylesheet" type="text/css">
+    <link href="css/style.css" rel="stylesheet" type="text/css">
+
+    <title>Bootstrap</title>
+  </head>
+  <body>
+
+<section class="bg-img4">
+  <div class="color-box">
+      <header>
+    <nav class="navbar navbar-expand-lg navbar-light py-3">
+      <div class="container">
+        <a class="navbar-brand" href="#">
+          <img src="images/3.png"/>
+        </a>
+         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+            <li class="nav-item px-3">
+              <a class="nav-link active" aria-current="page" href="home.html">Home</a>
+            </li>
+            <li class="nav-item px-3">
+              <a class="nav-link active" aria-current="page" href="
+              about us.html">PAGES</a>
+            </li>
+            <li class="nav-item px-3">
+              <a class="nav-link active" aria-current="page" href="portfolio.html">PORTFOLIO</a>
+            </li>
+            <li class="nav-item px-3">
+              <a class="nav-link active" aria-current="page" href="blogs.html">BLOGS</a>
+            </li>
+            <li class="nav-item px-3">
+              <a class="nav-link active" aria-current="page" href="contact us.html">CONTACT US</a>
+            </li>
+            </ul>
+            
+            
+      </div>
+    </nav>
+</header>
+<div class="text pad100 text-center text-white">
+  <h1>Blog & News</h1>
+  <p class="pt-2">Our Latest Blog and News in List Layouts</p>
+</div>
+  </div>
+</section>
+
+      <section class="bg15 pad50">
+          <div class="container">
+             <div class="row">
+               <div class="card mb-3" style="max-width: 540px;">
+                <div class="row g-0">
+                  <div class="col-md-6">
+                     <img src="images/14.jpg" class="img-fluid rounded-start" alt="...">
+                     <div class="depart">
+                       <p>Corporate</p>
+                     </div>
+                 </div>
+                  <div class="col-md-6">
+                   <div class="content p-2 pt-4 ps-3">
+                     <h5 class="card-title">Building Your Corporate Identity from Starty</h5>
+                     <h6 class="card-text text-normal">The most well-known dummy text, in the 16th century.</h6>
+                       <p class="card-text pt-2">Read More<i class="fas fa-arrow-right ps-2"></i></p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+
+              <div class="card mb-3" style="max-width: 540px;">
+                <div class="row g-0">
+                  <div class="col-md-6">
+                     <img src="images/15.jpg" class="img-fluid rounded-start" alt="...">
+                      <div class="depart">
+                       <p>Branding</p>
+                     </div>
+                 </div>
+                  <div class="col-md-6">
+                   <div class="content p-2 pt-4 ps-3">
+                     <h5 class="card-title">The Dark Side of Overnight Success</h5>
+                     <h6 class="card-text text-normal">The most well-known dummy text, in the 16th century.</h6>
+                       <p class="card-text pt-2">Read More<i class="fas fa-arrow-right ps-2"></i></p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+             </div>
+
+
+             <div class="row">
+               <div class="card mb-3" style="max-width: 540px;">
+                <div class="row g-0">
+                  <div class="col-md-6">
+                     <img src="images/16.jpg" class="img-fluid rounded-start" alt="...">
+                      <div class="depart">
+                       <p>Technology</p>
+                     </div>
+                 </div>
+                  <div class="col-md-6">
+                   <div class="content p-2 pt-4 ps-3">
+                     <h5 class="card-title">The Right Hand of Business IT World</h5>
+                     <h6 class="card-text text-normal">The most well-known dummy text, in the 16th century.</h6>
+                       <p class="card-text pt-2">Read More<i class="fas fa-arrow-right ps-2"></i></p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+
+              <div class="card mb-3" style="max-width: 540px;">
+                <div class="row g-0">
+                  <div class="col-md-6">
+                     <img src="images/33.jpg" class="img-fluid rounded-start" alt="...">
+                      <div class="depart">
+                       <p>Personal</p>
+                     </div>
+                 </div>
+                  <div class="col-md-6">
+                   <div class="content p-2 pt-4 ps-3">
+                     <h5 class="card-title">How to Create Your Own Viral Moments</h5>
+                     <h6 class="card-text text-normal">The most well-known dummy text, in the 16th century.</h6>
+                       <p class="card-text pt-2">Read More<i class="fas fa-arrow-right ps-2"></i></p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+             </div>
+
+             <div class="row">
+               <div class="card mb-3" style="max-width: 540px;">
+                <div class="row g-0">
+                  <div class="col-md-6">
+                     <img src="images/34.jpg" class="img-fluid rounded-start" alt="...">
+                      <div class="depart">
+                       <p>Business</p>
+                     </div>
+                 </div>
+                  <div class="col-md-6">
+                   <div class="content p-2 pt-4 ps-3">
+                     <h5 class="card-title">How to Write a Business Plan For Any Business</h5>
+                     <h6 class="card-text text-normal">The most well-known dummy text, in the 16th century.</h6>
+                       <p class="card-text pt-2">Read More<i class="fas fa-arrow-right ps-2"></i></p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+
+              <div class="card mb-3" style="max-width: 540px;">
+                <div class="row g-0">
+                  <div class="col-md-6">
+                     <img src="images/35.jpg" class="img-fluid rounded-start" alt="...">
+                      <div class="depart">
+                       <p>Marketing</p>
+                     </div>
+                 </div>
+                  <div class="col-md-6">
+                   <div class="content p-2 pt-4 ps-3">
+                     <h5 class="card-title">Seeing the Customer Journey More Clearly</h5>
+                     <h6 class="card-text text-normal">The most well-known dummy text, in the 16th century.</h6>
+                       <p class="card-text pt-2">Read More<i class="fas fa-arrow-right ps-2"></i></p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+             </div>
+             <div class="row">
+               <div class="card mb-3" style="max-width: 540px;">
+                <div class="row g-0">
+                  <div class="col-md-6">
+                     <img src="images/36.jpg" class="img-fluid rounded-start" alt="...">
+                      <div class="depart">
+                       <p>Production</p>
+                     </div>
+                 </div>
+                  <div class="col-md-6">
+                   <div class="content p-2 pt-4 ps-3">
+                     <h5 class="card-title">The Signs of a Highly Giftable Product</h5>
+                     <h6 class="card-text text-normal">The most well-known dummy text, in the 16th century.</h6>
+                       <p class="card-text pt-2">Read More<i class="fas fa-arrow-right ps-2"></i></p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+
+              <div class="card mb-3" style="max-width: 540px;">
+                <div class="row g-0">
+                  <div class="col-md-6">
+                     <img src="images/37.jpg" class="img-fluid rounded-start" alt="...">
+                      <div class="depart">
+                       <p>Business</p>
+                     </div>
+                 </div>
+                  <div class="col-md-6">
+                   <div class="content p-2 pt-4 ps-3">
+                     <h5 class="card-title">Defining Your Business Target Audience</h5>
+                     <h6 class="card-text text-normal">The most well-known dummy text, in the 16th century.</h6>
+                       <p class="card-text pt-2">Read More<i class="fas fa-arrow-right ps-2"></i></p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+             </div>
+
+          </div>
+      </section>
+
+
+
+        <section class="bg14">
+          <div class="number">
+            <ul class="d-flex list-unstyled justify-content-center pb-5">
+              <li class="mx-2"><i class="fas fa-angle-left"></i></li>
+              <li class="mx-2">1</li>
+              <li class="mx-2 text-white bg-primary">2</li>
+              <li class="mx-2">3</li>
+              <li class="mx-2"><i class="fas fa-angle-right"></i></li>
+            </ul>
+          </div>
+        </section>
+      </div>
+   </section>
+   
+	
+	<section class="bg11 pad50">
+		<div class="container">
+			<div class="container">
+  <div class="row">
+    <div class="col box-icon">
+      <div class="logo-box pt-1">
+          <img src="images/3.png"/>
+        </div>
+        <p class="text-secondary pt-4 px-2">Start working with Starty that can provide everything you.</p>
+			<ul class="d-flex list-unstyled pt-2">
+				<li><i class="fab fa-facebook-f"></i></li>
+				<li><i class="fab fa-instagram"></i></li>
+				<li><i class="fab fa-twitter"></i></li>
+				<li><i class="fab fa-linkedin-in"></i></li>
+			</ul>
+	</div>
+    <div class="col pt-2 text-white">
+		<h6>Company</h6>
+		<ul class="list-unstyled pt-3">
+			<li class="py-1 text-secondary"><i class="fas fa-angle-right pe-2"></i>About us</li>
+      <li class="py-1 text-secondary"><i class="fas fa-angle-right pe-2"></i>Services</li>
+      <li class="py-1 text-secondary"><i class="fas fa-angle-right pe-2"></i>Team</li>
+      <li class="py-1 text-secondary"><i class="fas fa-angle-right pe-2"></i>Pricing</li>
+      <li class="py-1 text-secondary"><i class="fas fa-angle-right pe-2"></i>Blog</li>
+      <li class="py-1 text-secondary"><i class="fas fa-angle-right pe-2"></i>Project</li>
+		</ul>
+	</div>
+    <div class="col">
+      <div class="col pt-2 text-white">
+    <h6>Usefull Links</h6>
+    <ul class="list-unstyled pt-3">
+      <li class="py-1 text-secondary"><i class="fas fa-angle-right pe-2"></i>Terms of Services</li>
+      <li class="py-1 text-secondary"><i class="fas fa-angle-right pe-2"></i>Privacy Policy</li>
+      <li class="py-1 text-secondary"><i class="fas fa-angle-right pe-2"></i>Contact Us</li>
+      <li class="py-1 text-secondary"><i class="fas fa-angle-right pe-2"></i> Changelog</li>
+      <li class="py-1 text-secondary"><i class="fas fa-angle-right pe-2"></i> Components</li>
+    </ul>
+  </div>
+    </div>
+    <div class="col">
+      <div class="col pt-2 text-white">
+    <h6>Resources</h6>
+    <ul class="list-unstyled pt-3">
+      <li class="py-1 text-secondary"><i class="fas fa-angle-right pe-2"></i>Theme guide</li>
+      <li class="py-1 text-secondary"><i class="fas fa-angle-right pe-2"></i>Support desk</li>
+      <li class="py-1 text-secondary"><i class="fas fa-angle-right pe-2"></i>What we offer</li>
+      <li class="py-1 text-secondary"><i class="fas fa-angle-right pe-2"></i>Company history</li>
+    </ul>
+  </div>
+    </div>
+  </div>
+ </div>
+		</div>
+	</section>
+
+   <footer class="bg12 pad50 text-center">
+    <div class="container">
+        <div class="them">
+          <p>2022 © Starty. Design with<i class="fas fa-heart px-2"></i>by Shreethemes.</p>
+        </div>
+    </div>
+  </footer>
+
+	
+    <script src="js/bootstrap.bundle.min.js"></script>
+	<script src="js/popper.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+   
+  </body>
+</html>
